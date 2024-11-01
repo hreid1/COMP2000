@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstApp_L4</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_name">Enter your name</string>
+</resources>
