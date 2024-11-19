@@ -19,7 +19,7 @@ Here are the key projects included in this repository:
    Demonstrates the use of explicit and implicit intents for navigation between activities and triggering actions such as opening a URL or sharing content.
 
 - **AppMenus**  
-   Explores menu creation and handling in Android, including options menus, context menus, and popup menus.
+   Explores menu creation and handling in Android, including options menus and context menus.
 
 - **AdaptersApp**  
    Demonstrates the use of Adapters in Android, such as `ArrayAdapter` and `BaseAdapter`, for dynamically displaying data in views like `ListView` or `Spinner`.
@@ -31,7 +31,7 @@ Here are the key projects included in this repository:
    Covers the use of fragments for creating flexible and reusable UI components, including fragment transactions and communication between fragments.
 
 - **RestAPI**  
-   A demo of integrating RESTful APIs in Android using native HTTP libraries like `HttpURLConnection` or `Retrofit` for fetching and displaying data from a remote server.
+   A demo of integrating RESTful APIs in Android using Volley and Gson for fetching and displaying data from a remote server.
 
 
 
@@ -63,4 +63,7 @@ To run the projects, ensure you have the following installed:
    - Ensure a device or emulator is connected.
 
 
+## License
+
+MIT License
 
