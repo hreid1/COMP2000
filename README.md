@@ -11,27 +11,22 @@ Here are the key projects included in this repository:
 
 - **L5_FirstApp**  
    A simple "Hello World" app introducing the basics of creating and running an Android app.
-
 - **ApplicationLifeCycle**  
    A demo to illustrate the Android application lifecycle, showcasing activities and callbacks like `onCreate`, `onStart`, `onResume`, and `onDestroy`.
-
 - **L5_Intents**  
    Demonstrates the use of explicit and implicit intents for navigation between activities and triggering actions such as opening a URL or sharing content.
-
 - **AppMenus**  
    Explores menu creation and handling in Android, including options menus and context menus.
-
 - **AdaptersApp**  
    Demonstrates the use of Adapters in Android, such as `ArrayAdapter` and `BaseAdapter`, for dynamically displaying data in views like `ListView` or `Spinner`.
-
 - **RecyclerView**  
    Focuses on implementing `RecyclerView`, an advanced and flexible version of `ListView`, with custom adapters, view holders, and item click listeners.
-
 - **Fragments**  
    Covers the use of fragments for creating flexible and reusable UI components, including fragment transactions and communication between fragments.
-
 - **RestAPI**  
    A demo of integrating RESTful APIs in Android using Volley and Gson for fetching and displaying data from a remote server.
+- **AppNotifications**  
+   A demo showcasing how to implement notifications to alert users and navigate them to the relevant activity upon clicking the notification.
 
 
 
